@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.thales.bdandroid.TelaCreditos">
+
+    <TextView
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_gravity="center"
+        android:text="Aplicativo desenvolvido por Thales Alves de Almeida usando SQlite, para a disciplina de Tópicos Avançados em Linguagem de Programação, como trabalho final, pelo professor Mestre Silvano Malfatti." />
+</LinearLayout>
